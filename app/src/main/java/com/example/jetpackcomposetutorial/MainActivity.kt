@@ -47,7 +47,9 @@ fun NewsStory() {
             Spacer(Modifier.height(16.dp))
 
             Text(
-                "A day in Shark Fin Cove",
+                "A day wandering through the sandhills " +
+                        "in Shark Fin Cove, and a few of the " +
+                        "sights I saw",
                 style = typography.h6
             )
             Text(
